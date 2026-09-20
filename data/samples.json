@@ -1,0 +1,3782 @@
+[
+  {
+    "id": "bitext-841",
+    "text": "help with cancelling purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-838",
+    "text": "problems with cancelling purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-894",
+    "text": "i do not know how to cancel purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-354",
+    "text": "I need help canceling purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-34",
+    "text": "i do not know how i can cancel purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-448",
+    "text": "I can no longer afford order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-86",
+    "text": "what do I have to do to cancel order {{Order Number}}?",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-565",
+    "text": "i want assistance canceling order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-265",
+    "text": "help me cancel purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-365",
+    "text": "I can no longer afford purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-803",
+    "text": "need help to cancel purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-394",
+    "text": "I'm trying to cancel order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-500",
+    "text": "I don't know what to do to cancel order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-615",
+    "text": "how do I cancel purchae {{Order Number}}?",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-494",
+    "text": "how can I cancel order {{Order Number}}?",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-710",
+    "text": "I can no longer pay for order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-561",
+    "text": "I can't afford order {{Order Number}}, I need help to cancel it",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-50",
+    "text": "assistance with canceling purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-718",
+    "text": "i have to cancel purchase {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-248",
+    "text": "I cannot afford order {{Order Number}}",
+    "intent": "cancel_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1195",
+    "text": "I want to change several products of order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1176",
+    "text": "help me to change several products of purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1814",
+    "text": "i want help removing a product from order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1571",
+    "text": "change purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1661",
+    "text": "i do not know how to change a product of order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1950",
+    "text": "edit order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1402",
+    "text": "changing order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1155",
+    "text": "how to change something of order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1399",
+    "text": "edit purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1444",
+    "text": "could you help me to delete something?",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-1697",
+    "text": "i want help adding an item to purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1326",
+    "text": "how do ii modify order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1121",
+    "text": "assistance changing order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1966",
+    "text": "I want help changing an article of purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1972",
+    "text": "remove a damn product from order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1351",
+    "text": "i have to delete som items from purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1080",
+    "text": "how to edt order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1102",
+    "text": "I can't swap some items of purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1316",
+    "text": "help to swap an article of order {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-1073",
+    "text": "remove a product from purchase {{Order Number}}",
+    "intent": "change_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2529",
+    "text": "I want assistance to change the address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2860",
+    "text": "I need assistance to modify my address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2285",
+    "text": "there are problems trying to edit my address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2055",
+    "text": "want help trying to edit my addres",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2394",
+    "text": "I try to edit the address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2108",
+    "text": "tgell me more about a shipping address update",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2333",
+    "text": "how can i find information about correcting the address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2724",
+    "text": "i have issues trying to edit my delivery address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2908",
+    "text": "I want support modifying the shipping address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2185",
+    "text": "i have problems editing my delivery address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-2119",
+    "text": "have problems with a shipping address modification",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2387",
+    "text": "I have entered a wrong goddamn address, how could I edit it?",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2608",
+    "text": "i have an issue trying to update my shipping address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2822",
+    "text": "the address changed, could I update it?",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2868",
+    "text": "need assistance with a address update",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2260",
+    "text": "the shipping address has changed how can i modify it",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2385",
+    "text": "there is an error modifying the delivery address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2006",
+    "text": "want support modifying the delivery address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2263",
+    "text": "I entered a wrong delivery address, can you correct it?",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-2461",
+    "text": "i have an issue editing my address",
+    "intent": "change_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3877",
+    "text": "can you help me see the damn withdrawal charge?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3162",
+    "text": "could uhelp me check the cancellation penalty",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3154",
+    "text": "where to see the early termination fees?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3829",
+    "text": "I am trying to see the fucking withdrawal charges",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3327",
+    "text": "how to see the early termination penalties?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3254",
+    "text": "I am trying to check the withdrawal charge",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3009",
+    "text": "is it possible to check the withdrawal charges",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3643",
+    "text": "where doi see the withdrawal penalties",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3388",
+    "text": "I want to check the early exit fee, could you help me?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3663",
+    "text": "see early exit penalty",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3762",
+    "text": "how can i see the withdrawal fees",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3211",
+    "text": "I have to check the cancellation charge",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3083",
+    "text": "I need to check the withdrawal fee",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3398",
+    "text": "I do not know what to do to check the cancellation charges",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3389",
+    "text": "I have to check the early exit charge, how can I do it?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3472",
+    "text": "i do not know how i can see the early exit penalties",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3128",
+    "text": "i try to check the cancellation fee",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3668",
+    "text": "can you help me check the termination charge?",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3158",
+    "text": "I don't know what I have to do to check the withdrawal fees",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3020",
+    "text": "I want help to see the termination charges",
+    "intent": "check_cancellation_fee",
+    "category": "CANCEL",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4374",
+    "text": "I need assistance to look for the invoice #00108",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-3958",
+    "text": "check my bill{{Invoice Number}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4255",
+    "text": "i have lost my bill from {{Person Name}} find it for me",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4261",
+    "text": "what do i have to do to check my invoice from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4569",
+    "text": "I need help giving a quick look at the bill #00108",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4213",
+    "text": "wanna find my bills from {{Person Name}} how do i do it",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4673",
+    "text": "check invoices from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4657",
+    "text": "see bill from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4227",
+    "text": "what do I have to do to see my bill #00108?",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4895",
+    "text": "i want help taking a quick look at the bills from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4448",
+    "text": "how to check bill #85632?",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4562",
+    "text": "I have got to look for bill #00108, how do I do it?",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-3991",
+    "text": "i want assistance to check the invoices from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4741",
+    "text": "I have got to look for my bill #00108",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4898",
+    "text": "is it possible to chec my bill #37777",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4104",
+    "text": "i want assistance taking a quick look at the invoice #00108",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4349",
+    "text": "i have got to see the damn bills from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4404",
+    "text": "find my bills from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4626",
+    "text": "could uhelp me see my goddamn invoikces from {{Person Name}}",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4703",
+    "text": "I need assistance giving a quick look at bill #37777",
+    "intent": "check_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5030",
+    "text": "wanna list the bloody accepted payment options how to do it",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4938",
+    "text": "I'm trying to check ur payment modalitise",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5411",
+    "text": "I have to see your allowed payment methods",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5402",
+    "text": "how to list the allowed payment modalities?",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5369",
+    "text": "I want assistance checking the available payment options",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5046",
+    "text": "how do I check what payment payment modalities are accepted?",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-4933",
+    "text": "help me check ur available payment options",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5551",
+    "text": "i want help listing the available payment options",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5594",
+    "text": "help to see ur accepted payment emthods",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5292",
+    "text": "wanna list  ur payment options could i get some help",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5780",
+    "text": "can you help me listing your accepted payment modalities?",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-4972",
+    "text": "I want to see what damn payment methods are allowed, help me",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5065",
+    "text": "want assistance checking your available payment modalities",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5278",
+    "text": "can I check your fucking accepted payment options?",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5913",
+    "text": "i dont know how to check  ur allowed payment modalities",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5366",
+    "text": "need assistance checking ur allowed payment options",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5862",
+    "text": "help me check ur allowed payment modalities",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5467",
+    "text": "how to check what payment options are available",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5437",
+    "text": "I would like to list the payment modalities",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-5171",
+    "text": "check ur paymnt modalities",
+    "intent": "check_payment_methods",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6262",
+    "text": "I want to see under what circumstances can I request refunds",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6087",
+    "text": "check under what circumstances can i request a reimbursement",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6449",
+    "text": "I try to check how long reimbursements usually take",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-5976",
+    "text": "show me in which situations can I ask to be reimbursed",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6218",
+    "text": "inwhat situations can I ask to be reimbursed?",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6394",
+    "text": "I try to see in what situations can I ask for reimbursements",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6342",
+    "text": "I would like to see in which cases can I ask for refunds",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6326",
+    "text": "can i check under which circumstances can i request a refund",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6415",
+    "text": "help seeing in what cases can I ask for reimbursements",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6205",
+    "text": "help me seeing in what cases can I ask for refunds",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6871",
+    "text": "could I see in which cases can I ask to be refunded?",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6910",
+    "text": "I try to see in what situations can I request to be refunded",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6261",
+    "text": "need assistance to see in what cases can i ask for refunds",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6587",
+    "text": "I need help checking how long rdimbursements take",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6025",
+    "text": "are the charges of ur services reimbursable",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6060",
+    "text": "need help to check in which cases can i ask to be refunded",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6520",
+    "text": "help me checking in what situations can I ask for a refund",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6459",
+    "text": "i have to check in which cases can i ask for a reimbursement",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6008",
+    "text": "I am trying to check your money back guarantee",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-6403",
+    "text": "in what cases can I request reimbursements?",
+    "intent": "check_refund_policy",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7373",
+    "text": "help making a customer reclamation against ur company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6989",
+    "text": "need to file a bloody consumer reclamation how can i do it",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7810",
+    "text": "I need help to file a consumer reclamation",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7785",
+    "text": "I am unhappy with your work, how do I lodge a reclamation?",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7799",
+    "text": "where can i lodge a reclamation against ur business",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6998",
+    "text": "I don't know what to do to file a claim against your company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7276",
+    "text": "can you help me filing a complaiont?",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7801",
+    "text": "I call to lodge a customer complaint against your company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7332",
+    "text": "help to make a consumer claim against your company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-7149",
+    "text": "help filing a customer reclamation against ur company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-6994",
+    "text": "I try to file a complaint against your company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7294",
+    "text": "want assistance to make a reclamation against ur business",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7848",
+    "text": "the experience with you was awful, help me file a complaint",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7841",
+    "text": "where do I lodge a consumer claim against your business?",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7281",
+    "text": "i need assistance making a consumer claim against ur compan",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7804",
+    "text": "want assistance making a claim against ur company",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7678",
+    "text": "i need help to lodge a customer claim agaisnt ur business",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7510",
+    "text": "I don't know what to do to file a consumer claim",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7200",
+    "text": "want help filing a claim",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-7890",
+    "text": "can uhelp me to make a complaint againsy ur business",
+    "intent": "complaint",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8629",
+    "text": "help me to see at what time I can contact customer support",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8165",
+    "text": "I want to check at what time customer support available is",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8602",
+    "text": "could you help me to speak to customer support?",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8531",
+    "text": "i dont know what to do to talk to customer support",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8042",
+    "text": "how can i talk wiht customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8317",
+    "text": "I do not know how I can get in touch with customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8234",
+    "text": "i want help to see what hours i can call custmer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8416",
+    "text": "help me to see what hours I can reach customer support",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8279",
+    "text": "assistance to see at what time I can call customr service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8825",
+    "text": "how can I check at what time I can call customer service?",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8173",
+    "text": "I need to talk with customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8323",
+    "text": "I want help seeing what hours I can reach customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8567",
+    "text": "help checking what hours I can call customer assistance",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8272",
+    "text": "how can i contact customer support",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8439",
+    "text": "I don't know what to do to speak with cusstomer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8515",
+    "text": "I do not know what to do to speak with customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8363",
+    "text": "help checking what hours I can call customer service",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8737",
+    "text": "i have gog to speak to customer support",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8394",
+    "text": "how can I see what hours I cn contact customer support?",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-8816",
+    "text": "what is thecustomer support mail",
+    "intent": "contact_customer_service",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9491",
+    "text": "I want assistance to contact an operator",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9863",
+    "text": "can ya help me contacting an operator",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9697",
+    "text": "could ya help me to speak wqith somebody",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9572",
+    "text": "I try to talk to a live agent",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8916",
+    "text": "can I talk to a person?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-8959",
+    "text": "want assistance talking with somebody",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9215",
+    "text": "I do not know what I have to do to speak with an operator",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9299",
+    "text": "i try to speak with someone",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9755",
+    "text": "i dont know what i need to do to speak to a person",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9022",
+    "text": "i need assistance to talk with somelne",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9122",
+    "text": "i want help chatting with an assistant",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9005",
+    "text": "speak to an assistant",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9102",
+    "text": "what do I have to do to chat with an operator?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9573",
+    "text": "I don't understand you, help talking to a goddamn person",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9682",
+    "text": "can you help me speaking with somebody?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9629",
+    "text": "I do not know what I need to do to talk with an assistant",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9247",
+    "text": "directing to operator",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9065",
+    "text": "can you help me contact somebody?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9200",
+    "text": "how to speak with somebody ?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9020",
+    "text": "could I speak to a live agent?",
+    "intent": "contact_human_agent",
+    "category": "CONTACT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10636",
+    "text": "I would like to create a pro account, how do I do it?",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10684",
+    "text": "I need an {{Account Type}} account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10494",
+    "text": "create new premium account for daughter",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10277",
+    "text": "I need help to open a standard account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10117",
+    "text": "can you help me create a freemium account?",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10103",
+    "text": "I need information about opening premium accounts",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10359",
+    "text": "what do i have to do to createa premium account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-9953",
+    "text": "open gold account for wife",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10254",
+    "text": "opening new {{Account Category}} account for daughter",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10681",
+    "text": "new {{Account Category}} account for wife",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-10100",
+    "text": "open another pro account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10570",
+    "text": "I do not know what to do to open a {{Account Category}} account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10614",
+    "text": "open freemium account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10065",
+    "text": "could you help me creating a new bloody freemium account?",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10211",
+    "text": "help me creating a {{Account Type}} account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10807",
+    "text": "opening new standard account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10002",
+    "text": "I do not have a freemium account, I try to register",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9987",
+    "text": "help me to open a {{Account Type}} account",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-10781",
+    "text": "tell me more about opening gold accounts",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-9932",
+    "text": "is it possible to create a freemium account?",
+    "intent": "create_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11541",
+    "text": "I want assistance to delete a bloody gold account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11613",
+    "text": "I want information about the termination of a {{Account Type}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11681",
+    "text": "remove {{Account Category}} accoint",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11816",
+    "text": "i no lomger need my damn gold account can uhelp me delete it",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11060",
+    "text": "I never use the {{Account Type}} account, can you help me to cancel it?",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11202",
+    "text": "deleting pro account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11853",
+    "text": "I need assistance to delete my {{Account Type}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11649",
+    "text": "what do I have to do to cancel my {{Account Category}} account?",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11673",
+    "text": "i have problems with the deletion of my premium account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11450",
+    "text": "i dont know what i need to do to delete a {{Account Category}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11291",
+    "text": "i have to delete the fucking freemium account i need help",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11049",
+    "text": "I don't want my user account, help cancelling it",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11763",
+    "text": "I do not know what to do to close the {{Account Category}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11200",
+    "text": "i do not know what i need to do to remove the {{Account Type}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11609",
+    "text": "cancel {{Account Type}} acount",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11889",
+    "text": "have a problem with the removal of my {{Account Type}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11581",
+    "text": "what do I need to do to cancell a {{Account Category}} account?",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11806",
+    "text": "I do not use the damn gold account, I am trying to close it",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11316",
+    "text": "find information about the deletion of a {{Account Type}} account",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-11096",
+    "text": "I want to cancel a damn {{Account Type}} account, I need help",
+    "intent": "delete_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12896",
+    "text": "can i place an oeder from {{Delivery City}}",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12303",
+    "text": "what are the available shipment options?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12082",
+    "text": "I am calling to see what delivery methods you offer",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12587",
+    "text": "wanna see what shipping methods are available how to do it",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12718",
+    "text": "I want to check what methods for delivery you offer",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12116",
+    "text": "can ya help me to see what shipment options i can choose",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12684",
+    "text": "do you ship  to {{Delivery Country}}?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12542",
+    "text": "is it possible to order from {{Delivery City}} ?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12548",
+    "text": "is it possibleto place an order from {{Delivery City}}",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-11980",
+    "text": "do you deliver to {{Delivery Country}}?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12720",
+    "text": "help me to check what delivery methods I can choose",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12807",
+    "text": "assistance seeing what shipment methods you offer",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12436",
+    "text": "i want help to check the shipping methods",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12404",
+    "text": "I need assistance to check what shipment options are there",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12246",
+    "text": "where do I see what shipping options I have?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12308",
+    "text": "where to see what shipment options I have?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12284",
+    "text": "need to check what methods for delivery i can choose help me",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12642",
+    "text": "i dont know what i have to do to see the shipment methods",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12221",
+    "text": "deliverids to {{Delivery Country}}",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12658",
+    "text": "how to see what delivery options you offer?",
+    "intent": "delivery_options",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13639",
+    "text": "I try to see when will my product arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13472",
+    "text": "could you help me to see how soon can I expect the product?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13277",
+    "text": "I want to check how long it takes for the order to arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13636",
+    "text": "assistance seeing how soon can I expect my item",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13697",
+    "text": "help to see how long it takes for my item to arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13094",
+    "text": "how long does it take for a damn article to arrive?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13528",
+    "text": "want help to check whenmy package is gonna arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13183",
+    "text": "how can I see how long it takes for the article to arrive?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13429",
+    "text": "need to check how soon can i ezpect my package",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13155",
+    "text": "I have to check how soon can I expect the purchase",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-12951",
+    "text": "assistance seeing how soon can I expect my article",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12994",
+    "text": "what do I need to do to see how soon can I expect my item?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12982",
+    "text": "how can I see how son can I expect my package?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13715",
+    "text": "where could I see when will my purchase arrive?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-12966",
+    "text": "I call to check when my delivery is going to arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13173",
+    "text": "I'm trying to see how long it takes for my product to arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13624",
+    "text": "I have got to see when will my item arrive, how do I do it?",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13674",
+    "text": "i dont know how to see how soon can i expect my item",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13471",
+    "text": "I call to see when my parcel is going to arrive",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13180",
+    "text": "i want assistance to see how soon can i expect the item",
+    "intent": "delivery_period",
+    "category": "DELIVERY",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13979",
+    "text": "correct details on premium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14350",
+    "text": "edit details on freemium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14321",
+    "text": "correcting information on platinum account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14485",
+    "text": "modify info on {{Account Category}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14305",
+    "text": "editing details on {{Account Type}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14353",
+    "text": "editing details on freemium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-13995",
+    "text": "modifying {{Account Type}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14448",
+    "text": "correct details on gold account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14589",
+    "text": "change details on {{Account Type}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14501",
+    "text": "modify details on {{Account Type}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-14097",
+    "text": "updating data on standard account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14126",
+    "text": "editting details on platinum account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14281",
+    "text": "edit information on {{Account Category}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14334",
+    "text": "change info on standard account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13993",
+    "text": "modify info on premium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14750",
+    "text": "updatikng data on platinum account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-13944",
+    "text": "changing information on {{Account Category}} account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14503",
+    "text": "edit information on premium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14541",
+    "text": "update information on premium account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14506",
+    "text": "correct information on gold account",
+    "intent": "edit_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15216",
+    "text": "I'm trying to get my damn bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15320",
+    "text": "getting bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15322",
+    "text": "i want help downloading  my invoice from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15696",
+    "text": "I need help getting the bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15161",
+    "text": "i dont know  what i have to do to download the bill #37777",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15524",
+    "text": "i cant find the bill #00108 will umail it to me",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15555",
+    "text": "send me bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15522",
+    "text": "I want to downlpad my invoice from {{Person Name}}, I need help",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15195",
+    "text": "i want help getting my bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15048",
+    "text": "i need assistance to get my invoices  from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-15217",
+    "text": "i try to get my invoices from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15136",
+    "text": "help geting my bills from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14970",
+    "text": "I don't know what I have to do to download my bill #12588",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15165",
+    "text": "could i get the damn invoice from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15096",
+    "text": "I do not know how to download the bill #85632",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15704",
+    "text": "I am calling to get my goddamn invoices from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15671",
+    "text": "can you help me downloading my bill #85632?",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15771",
+    "text": "I am trying to download the bill from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15473",
+    "text": "wanna downlpad my bill from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-14965",
+    "text": "need to get the invoices from {{Person Name}}",
+    "intent": "get_invoice",
+    "category": "INVOICE",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16328",
+    "text": "I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want to obtain a fucking rebate",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16875",
+    "text": "i try to receive compensations of money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16407",
+    "text": "i try to obtain restitutions of money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16636",
+    "text": "where to get a restitution of my money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16003",
+    "text": "help to ask for a restitution of money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16727",
+    "text": "where do i ask for a refund",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16345",
+    "text": "refunding{{Currency Symbol}}{{Refund Amount}}",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16471",
+    "text": "assistance to get a rebate",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16713",
+    "text": "how do I get a rebate?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16416",
+    "text": "can you help me getting a reimbursement?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16828",
+    "text": "what do I have to do to demand reimbursements of my money?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16240",
+    "text": "where can I demand a refund?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16519",
+    "text": "i want assistance to get rebates of my money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16020",
+    "text": "what do i have to do to request restitutions of money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16509",
+    "text": "can you help me to ask for a reimbursement of my money?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16004",
+    "text": "can you help me ask for a rebate of money?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16181",
+    "text": "i want assistance to ask for a reimbursement of money",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-15926",
+    "text": "when can I expect a refund",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16070",
+    "text": "can you help me to request a reimbursement of money?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-16888",
+    "text": "where could I get a compensation of my money?",
+    "intent": "get_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17386",
+    "text": "I want to subscribe to the newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17731",
+    "text": "I have to receive your newsletter, can you help me?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17297",
+    "text": "cancel the subscription to your corporate newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17413",
+    "text": "I have to unsuscribe to your company newsletter, I need help",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17370",
+    "text": "i dont know how to sign up to the newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17862",
+    "text": "how can I subscribe to the newsletter?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17614",
+    "text": "need help unsubscribing from ur newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17668",
+    "text": "help unsubscribing from your newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-16985",
+    "text": "could you help me to unsubscribe to the company newsletter?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17894",
+    "text": "want help subscribing to ur companynewsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17502",
+    "text": "unsubscribe to your damn company newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17734",
+    "text": "where to cancel the newsletter subscription ?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17568",
+    "text": "I have got to unsubscribe from your newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17759",
+    "text": "want help to receive ur company newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17298",
+    "text": "what do I have to do to receive your company newsletter?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17188",
+    "text": "how can i cancel my subscription to ur corporate newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17697",
+    "text": "I want to receive your newsletter, how can I do it?",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17761",
+    "text": "receive company newsletter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17173",
+    "text": "where to sign up to the newsleter",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17562",
+    "text": "I have to sign up to your newsletter, I need assistance",
+    "intent": "newsletter_subscription",
+    "category": "SUBSCRIPTION",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18078",
+    "text": "is it possible to report troubles with payments?",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18372",
+    "text": "i need help to inform of troubls with payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18552",
+    "text": "i cannot pay want help to report errors with payments",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18617",
+    "text": "I don't know what I have to do to notify of a payment error",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18328",
+    "text": "can ya help me to notify of an error with online payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18418",
+    "text": "how can I report troubles with online payment?",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18451",
+    "text": "I have to inform of damn payment errors, how can I do it?",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18634",
+    "text": "report problems with payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18686",
+    "text": "i want assistance to notify of errors with online payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18467",
+    "text": "how could I inform of issues with payment?",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-17910",
+    "text": "I need help to notify of a trouble with payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18286",
+    "text": "could you help me reporting errors with online payment?",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-17928",
+    "text": "I want help notifying of troubles with online paymnet",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18856",
+    "text": "I need to report errors with payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18652",
+    "text": "I cannot pay, help reporting goddamn problems with payments",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18702",
+    "text": "I don't knpw how to report payment issues",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18005",
+    "text": "i have to notify of issues with payments",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18730",
+    "text": "errors with online payments",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18126",
+    "text": "can ya help me informing  of problems with online payment",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18192",
+    "text": "I am trying to inform of payment problems",
+    "intent": "payment_issue",
+    "category": "PAYMENT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19421",
+    "text": "I need help to earn several producst",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19446",
+    "text": "I want assiostance to acquire an article",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19556",
+    "text": "I have got to acquire several of your article",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19312",
+    "text": "need help to earn an item",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19789",
+    "text": "i do not know what to do to earn an item",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19067",
+    "text": "how to shop some articles?",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18993",
+    "text": "i want assistance acquiring a few of ur article",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19541",
+    "text": "i dont know how to earn a product",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-18916",
+    "text": "where to pucrhase some items",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19267",
+    "text": "I have got to earn a few of your product",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19792",
+    "text": "how do i purchase an item",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-18901",
+    "text": "i do not know what i need to do to buy several items",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19644",
+    "text": "is it possible to acquire an article?",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19712",
+    "text": "I want assistance ordering an article",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19133",
+    "text": "how to shop a product?",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19452",
+    "text": "how can I acquire a product?",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19377",
+    "text": "want help to purchase some of your product",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19353",
+    "text": "i have got to buy a product can i get some help",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19482",
+    "text": "I need help shopping several of your item",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19348",
+    "text": "I need to earn several bloody items, how could I do it?",
+    "intent": "place_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20560",
+    "text": "help to retrieve the password of my profile",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20803",
+    "text": "how can i find information about my key recovery",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20342",
+    "text": "where do I restore the password of my account?",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20870",
+    "text": "where could I retrieve my profile access key?",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20276",
+    "text": "where do I restore my pass?",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20553",
+    "text": "I need information about my access key retrieval",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20858",
+    "text": "I am trying to find information about a forgotten PIN code",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-19904",
+    "text": "have a question about the lost pass",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20222",
+    "text": "want help restoring the pin code of my user",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20809",
+    "text": "I have a question about the lost pass",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20038",
+    "text": "can you help me resetting the pwd of my user?",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20089",
+    "text": "csn ya help me reset the password of my account",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20660",
+    "text": "help to retrieve my user PIN",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20139",
+    "text": "wany help to reset the access key of my account",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20747",
+    "text": "how can I reset my profile access key?",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20431",
+    "text": "I have to retrieve my user PIN",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-19920",
+    "text": "I cannot reset my user profile PIN",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20525",
+    "text": "i have to resdet my user pin code",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20326",
+    "text": "i have to reset the pin code of my profile",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20839",
+    "text": "what do i need to do to recover my user account pin code",
+    "intent": "recover_password",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21266",
+    "text": "I want assistance to inform of a problem with registrations",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21016",
+    "text": "reporting registration issues",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21649",
+    "text": "where do I inform of an error with sign-up?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21326",
+    "text": "I want help to inform of problems with a sign-up",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21720",
+    "text": "I need to report a fucking registration error, help me",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21122",
+    "text": "I am experiencing an problem registering",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21159",
+    "text": "I want to inform of an error with a damn signup",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-20958",
+    "text": "help reporting fucking signup problems",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21884",
+    "text": "where to notify of an error with signup?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21815",
+    "text": "issues with registration",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21158",
+    "text": "is it possible to notify of a problem with a signup?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21619",
+    "text": "is it possible to report signup errors?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21027",
+    "text": "i cannot notify of a problem with a sign-up",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20933",
+    "text": "report erroprs with sign-up",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21417",
+    "text": "report issues creating user",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21028",
+    "text": "I do not know how to notify of a sign-up error",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21442",
+    "text": "where to reoprt errors with signup?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21413",
+    "text": "what do I need to do to notify of an issue with a signup?",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21211",
+    "text": "I want assistance to notify of an error with a registration",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-20926",
+    "text": "need assistance reporting an error with a signup",
+    "intent": "registration_problems",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22522",
+    "text": "is their a section to submit my feedback about a product",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22441",
+    "text": "i want help to send feedback for ur services",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21923",
+    "text": "i want assistance to leave feedback aboutur products",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22707",
+    "text": "where do I submit feedback for your products?",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22702",
+    "text": "I do not know how to submit some feedback for a servicd",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22708",
+    "text": "leave review for a service",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22538",
+    "text": "is there a seection to send my feedback for ur services",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22742",
+    "text": "I am trying to leave feedback for a service",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-21895",
+    "text": "where could i leave a fucking comment for a service",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22867",
+    "text": "uhave a method to submit feedback for ur services",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-22205",
+    "text": "ya have a method to send my feedback for ur products",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22494",
+    "text": "can you help me write an opinion about a product?",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22865",
+    "text": "help me submit some feedback for a service",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-21903",
+    "text": "I need assistance to leave an opinion for your services",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22014",
+    "text": "I am trying to leave fewedback about a service",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22776",
+    "text": "I do not know how I could send my feedback for a product",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22741",
+    "text": "I do not know how to leave my feedback for a product",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22365",
+    "text": "how can i submit my feedback about ur products",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22593",
+    "text": "wanna leave an opinion",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22836",
+    "text": "i call to submit feedback about ur services",
+    "intent": "review",
+    "category": "FEEDBACK",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22902",
+    "text": "I try to submit the secondary delivery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23225",
+    "text": "i haveerrors entering my new shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23091",
+    "text": "need assistance submitting a shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23778",
+    "text": "I try to submit a new delivery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23632",
+    "text": "there is an issue submitting a deilvery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23776",
+    "text": "I have troubles setting up a new shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23862",
+    "text": "can huelp me setting the secondary delivery address up",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23289",
+    "text": "where to set up my new shipping address?",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23008",
+    "text": "where to submit a  different delivery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23096",
+    "text": "help setting up my new delivery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23266",
+    "text": "is it possible to set up the secondary shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23171",
+    "text": "is it possible to enter another shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-22962",
+    "text": "i have a trouble submitting a different shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23698",
+    "text": "need assistance entering my new shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23480",
+    "text": "I do not know how I can set up my shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23313",
+    "text": "i have problems setting the new delivery address up",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23622",
+    "text": "I have to enter the shipping address, how do I do it?",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23139",
+    "text": "there is a problem entering my secondary shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23579",
+    "text": "troubles setting up a goddamn delivery address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23687",
+    "text": "assistance to enter my shipping address",
+    "intent": "set_up_shipping_address",
+    "category": "SHIPPING",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23893",
+    "text": "wanna switch to th {{Account Category}} account could uhelp me",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24305",
+    "text": "I don't know what I have to do to change to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24020",
+    "text": "help using the {{Account Category}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24253",
+    "text": "use pro account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24031",
+    "text": "help me use the {{Account Category}} profile",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24765",
+    "text": "I do not know how I can switch to tbe {{Account Category}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24850",
+    "text": "where do i switch to the gold account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24777",
+    "text": "changkng to platinum account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24801",
+    "text": "want assistance switching to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-23958",
+    "text": "use freemium account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24181",
+    "text": "I need help changing to the platinum account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24828",
+    "text": "i dont khow what i need to do to change to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24013",
+    "text": "help changing to the standard account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24405",
+    "text": "how could i change to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24794",
+    "text": "I want to use the {{Account Type}} profile, how to do it?",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24634",
+    "text": "I don't know what to do to switch to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-23948",
+    "text": "where to change to the freemium account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24436",
+    "text": "where can i switch to  the {{Account Category}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24638",
+    "text": "change to the {{Account Type}} account",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24111",
+    "text": "wanna switch to the platinum accoun",
+    "intent": "switch_account",
+    "category": "ACCOUNT",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25161",
+    "text": "can I see order {{Order Number}} status?",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25595",
+    "text": "I try to check purchase {{Order Number}} current status",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25017",
+    "text": "wana check the ETA of order {{Order Number}} will ya help me",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25659",
+    "text": "can uhelp me seethe ETA of order {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25087",
+    "text": "seeing order {{Order Number}} current status",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-24949",
+    "text": "what do I need to do to see order {{Order Number}} status?",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25273",
+    "text": "i need assistance to check the eta of the order {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25283",
+    "text": "I can't check the current status of purchase {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25506",
+    "text": "I want to see the status of order {{Order Number}}, I need help",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25681",
+    "text": "wanna see order {{Order Number}} damn current status help me",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25748",
+    "text": "how can i see the status of purchase {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25141",
+    "text": "i cant see the current status of purchase {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25478",
+    "text": "need help seeing the eta of the purchase {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-24918",
+    "text": "can I check the ETA of order {{Order Number}}?",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25357",
+    "text": "need to check order {{Order Number}} current status how do i do it",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25284",
+    "text": "where do I check my last purchase estimated time of arrival?",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25512",
+    "text": "status of order {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25013",
+    "text": "want help to check the eta of purchase {{Order Number}}",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25263",
+    "text": "can I check purchase {{Order Number}} current status?",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-25312",
+    "text": "checking status of order",
+    "intent": "track_order",
+    "category": "ORDER",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26090",
+    "text": "I am trying to check my compensation current status",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26361",
+    "text": "I do not know how to check the rebate current status",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26792",
+    "text": "assistance to see the restitution status",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-25985",
+    "text": "help to see if there is anything wrong with the refund",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26393",
+    "text": "I'm waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26274",
+    "text": "I'm waiting for a refund of {{Refund Amount}} dollrs",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26572",
+    "text": "can you help me to see the restitution status?",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26447",
+    "text": "I expect a compensation of {{Refund Amount}} dollars",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26381",
+    "text": "I expect an rebate of {{Refund Amount}} dollars",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26092",
+    "text": "could I know if there are any news on my reimbursement?",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "dev"
+  },
+  {
+    "id": "bitext-26526",
+    "text": "I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26833",
+    "text": "I expect an refund of {{Refund Amount}} dollars",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26531",
+    "text": "I try to see if there are any news on my reimbursement",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26253",
+    "text": "help to see the status of my rebate",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26493",
+    "text": "I need to check my goddamn restitution status",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26690",
+    "text": "can you show me the rebate current status?",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26237",
+    "text": "i expect a restitution of {{Currency Symbol}}{{Refund Amount}}",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26378",
+    "text": "showing refund status",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26502",
+    "text": "I am waiting for a compensation of  {{Currency Symbol}}{{Refund Amount}}",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  },
+  {
+    "id": "bitext-26607",
+    "text": "i have got to track my refund",
+    "intent": "track_refund",
+    "category": "REFUND",
+    "split": "test"
+  }
+]

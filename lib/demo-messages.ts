@@ -1,0 +1,23 @@
+// Authored demonstration messages, not Bitext samples or benchmark ground truth.
+export const demoMessages = [
+  "My parcel says delivered, but I haven't received it.",
+  "I returned my shoes last week. When will the refund reach my card?",
+  "Please cancel my order. I placed it by mistake.",
+  "My card was charged twice for the same purchase.",
+  "Can you change the delivery address before my parcel ships?",
+  "The jacket doesn't fit. I'd like to return it and get a refund.",
+  "Can I change the quantity in my order from one to two?",
+  "Could you send me the invoice for my latest order?",
+  "My package is three days late. Can you check where it is?",
+  "How many days do I have to return an unused item?",
+  "I'd like to place an order for two of the blue backpacks.",
+  "The checkout keeps showing an error when I try to pay.",
+  "Do you offer next-day delivery to London?",
+  "My return was accepted, but I still haven't received my refund.",
+  "Is there a cancellation fee if I cancel my order today?",
+  "Do you accept PayPal or only credit cards?",
+  "I need to add a shipping address to my account.",
+  "I would like a refund for the damaged item I received.",
+  "I ordered the red shirt but want to change it to blue before it ships.",
+  "The tax amount on my invoice looks incorrect. Can you check it?",
+] as const;

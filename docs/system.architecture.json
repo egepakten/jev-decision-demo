@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Route Lab \u00b7 Four decisions / three settings",
+    "quality_profile": "showcase",
+    "animation": "trace",
+    "locale": "en"
+  },
+  "components": [
+    {
+      "id": "inputs",
+      "type": "frontend",
+      "label": "Message sources",
+      "sublabel": "12 demo cases / Bitext / custom",
+      "pos": [
+        32,
+        72
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "runner",
+      "type": "frontend",
+      "label": "Live comparison",
+      "sublabel": "3 concurrent requests per message",
+      "pos": [
+        288,
+        72
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "api",
+      "type": "backend",
+      "label": "Experiment API",
+      "sublabel": "Same policy / four decisions",
+      "pos": [
+        544,
+        72
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "jev",
+      "type": "external",
+      "label": "Jev",
+      "sublabel": "TypeSafe direct",
+      "pos": [
+        816,
+        0
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "off",
+      "type": "external",
+      "label": "Gemini 2.5 Flash-Lite",
+      "sublabel": "OpenRouter / thinking off",
+      "pos": [
+        816,
+        108
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "on",
+      "type": "external",
+      "label": "Gemini 2.5 Flash-Lite",
+      "sublabel": "OpenRouter / thinking 1,024",
+      "pos": [
+        816,
+        216
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "validate",
+      "type": "backend",
+      "label": "Validate + map owner",
+      "sublabel": "Intent / urgency / missing / review",
+      "pos": [
+        1088,
+        108
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "db",
+      "type": "database",
+      "label": "D1 records",
+      "sublabel": "Decisions / usage / API latency",
+      "pos": [
+        1088,
+        374
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "display",
+      "type": "frontend",
+      "label": "Rank replies #1 / #2 / #3",
+      "sublabel": "All replies, then 3-second pause",
+      "pos": [
+        816,
+        374
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "report",
+      "type": "frontend",
+      "label": "Run summary",
+      "sublabel": "Accuracy / median / p95 / cost",
+      "pos": [
+        544,
+        374
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "labels",
+      "type": "frontend",
+      "label": "Review labels",
+      "sublabel": "AI drafts + explicit user approval",
+      "pos": [
+        288,
+        374
+      ],
+      "size": [
+        210,
+        80
+      ]
+    },
+    {
+      "id": "storage",
+      "type": "database",
+      "label": "Browser storage",
+      "sublabel": "Run snapshot / labels / JSON export",
+      "pos": [
+        544,
+        547
+      ],
+      "size": [
+        210,
+        80
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "inputs",
+      "to": "runner"
+    },
+    {
+      "from": "runner",
+      "to": "api",
+      "label": "POST"
+    },
+    {
+      "from": "api",
+      "to": "jev"
+    },
+    {
+      "from": "api",
+      "to": "off"
+    },
+    {
+      "from": "api",
+      "to": "on"
+    },
+    {
+      "from": "jev",
+      "to": "validate"
+    },
+    {
+      "from": "off",
+      "to": "validate"
+    },
+    {
+      "from": "on",
+      "to": "validate"
+    },
+    {
+      "from": "validate",
+      "to": "db",
+      "label": "Save",
+      "labelDy": 50
+    },
+    {
+      "from": "db",
+      "to": "display",
+      "label": "Reply"
+    },
+    {
+      "from": "display",
+      "to": "report",
+      "label": "Measure"
+    },
+    {
+      "from": "labels",
+      "to": "report",
+      "label": "Score"
+    },
+    {
+      "from": "report",
+      "to": "storage",
+      "label": "Persist",
+      "labelDy": 50
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "dataset": "bitext/Bitext-customer-support-llm-chatbot-training-dataset",
+  "revision": "430d1a89bd93bd1fa23c16f29dd53e73f0087443",
+  "sha256": "6f81102b0100b97b8468eb04368033a23206bf1fde9d53500d5806ec1001a434",
+  "totalRows": 26872,
+  "license": "CDLA-Sharing-1.0",
+  "method": "Hybrid synthetic; not real Shopify messages"
+}
