@@ -32,6 +32,7 @@ export default function LiveDecisionFlow({
   embedded?: boolean;
 }) {
   const [message, setMessage] = useState(initialMessage);
+  const [warmup, setWarmup] = useState(false);
   const [results, setResults] = useState<Partial<Record<Variant, ModelResult>>>(
     {},
   );
@@ -63,6 +64,7 @@ export default function LiveDecisionFlow({
   useEffect(() => {
     if (!externalStep) return;
     const { message, variant, result } = externalStep;
+    setWarmup(externalStep.warmup === true);
     if (externalStep.reset || externalMessage.current !== message) {
       setResults({});
       externalMessage.current = message;
@@ -82,6 +84,7 @@ export default function LiveDecisionFlow({
     if (!externalActive) setCurrent(null);
   }, [externalActive]);
   async function evaluateMessage(text: string, rotation: number) {
+    setWarmup(false);
     setMessage(text);
     setResults({});
     setError("");
@@ -275,7 +278,9 @@ export default function LiveDecisionFlow({
                 key={v}
                 className={
                   "live-demo-node " +
-                  ((busy || externalActive) && !results[v]
+                  ((busy || externalActive) &&
+                  !results[v] &&
+                  (!warmup || current === v)
                     ? "evaluating"
                     : results[v]?.error
                       ? "failed"
@@ -286,7 +291,7 @@ export default function LiveDecisionFlow({
               >
                 <strong>
                   {names[v]}{" "}
-                  {results[v] && !results[v]?.error && (
+                  {!warmup && results[v] && !results[v]?.error && (
                     <em className="arrival-rank">
                       #
                       {Object.keys(results)
@@ -297,7 +302,9 @@ export default function LiveDecisionFlow({
                 </strong>
                 <small>{modes[v]}</small>
                 <span>
-                  {(busy || externalActive) && !results[v]
+                  {(busy || externalActive) &&
+                  !results[v] &&
+                  (!warmup || current === v)
                     ? "Evaluating four decisions…"
                     : results[v]?.error
                       ? "Request failed"
@@ -357,7 +364,7 @@ export default function LiveDecisionFlow({
               <header>
                 <strong>
                   {names[v]}{" "}
-                  {results[v] && !results[v]?.error && (
+                  {!warmup && results[v] && !results[v]?.error && (
                     <em className="arrival-rank">
                       #
                       {Object.keys(results)

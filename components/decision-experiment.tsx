@@ -35,6 +35,7 @@ export type LiveExperimentStep = {
   result?: ModelResult;
   phase: string;
   reset?: boolean;
+  warmup?: boolean;
   results?: Partial<Record<(typeof variants)[number], ModelResult>>;
 };
 export default function DecisionExperiment({
@@ -227,7 +228,8 @@ export default function DecisionExperiment({
         emitStep({
           message: runCases[0].message,
           variant,
-          phase: "Warm-up · excluded from measurements",
+          phase: "Warm-up · sequential requests · excluded from measurements",
+          warmup: true,
           reset: variant === variants[0],
         });
         const res = await fetch("/api/experiment", {
@@ -239,13 +241,14 @@ export default function DecisionExperiment({
           result: ModelResult;
           error?: string;
         };
-        if (!res.ok || data.result?.error)
+        if (!res.ok || !data.result || data.result.error)
           throw Error(data.error || data.result?.error || "Warm-up failed");
         emitStep({
           message: runCases[0].message,
           variant,
           result: data.result,
           phase: "Warm-up · saved",
+          warmup: true,
         });
         next.warmups.push({
           caseId: runCases[0].id,
@@ -255,6 +258,21 @@ export default function DecisionExperiment({
           recordedAt: new Date().toISOString(),
         });
         publish();
+      }
+      if (
+        !stop.current &&
+        lastStep &&
+        next.warmups.length === variants.length
+      ) {
+        emitStep({
+          ...lastStep,
+          reset: false,
+          phase:
+            "Warm-up complete · all three replies received · showing for 3 seconds",
+        });
+        const until = Date.now() + 3000;
+        while (!stop.current && Date.now() < until)
+          await new Promise((resolve) => setTimeout(resolve, 100));
       }
       for (
         let repetition = 0;
